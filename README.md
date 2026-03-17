@@ -22,6 +22,8 @@ Monitorar o desempenho da empresa
 
 Identificar variações entre valores planejados e realizados
 
+LINK DO POWER BI ONLINE : 
+https://app.powerbi.com/view?r=eyJrIjoiODZmN2UxZmYtYzQ2Ni00MzE1LWIyOTQtMDNlNjk4OGM2MTFlIiwidCI6ImMwMmU1MTQ4LTVlZmItNDVmNi04ODQyLTQzMmI1ZjAzZTY1YyIsImMiOjF9
 
 
 🛠️ Ferramentas Utilizadas
