@@ -4,14 +4,21 @@
 
 Este projeto tem como objetivo desenvolver um dashboard financeiro para apoiar a tomada de decisão estratégica da empresa Datapharma, permitindo o acompanhamento de indicadores e análise de desempenho ao longo do tempo.
 
-
+>>Entrega AC1
 📈 Indicadores Analisados
 
 Receita Total
 Total do Planejado
-
 Gráfico com Comparação entre Receita Real vs Planejada
 
+>>Entrega AC2
+
+MÉTRICAS :
+Lucro
+Margem de Lucro
+Custo Total
+Impostos sobre a Receita
+Gráfico com a comparação da Receita por Unidade
 
 
 📊 Visão do Dashboard
@@ -21,6 +28,7 @@ O dashboard foi desenvolvido para fornecer uma visão clara e objetiva dos dados
 Monitorar o desempenho da empresa
 
 Identificar variações entre valores planejados e realizados
+Indentificar Receita Por Uinidade
 
 LINK DO POWER BI ONLINE Atualizado: 
 https://app.powerbi.com/view?r=eyJrIjoiODg0YzdhNzEtMTJiNS00YmYwLThlMDYtOTNlYTViNTE2Y2E3IiwidCI6ImMwMmU1MTQ4LTVlZmItNDVmNi04ODQyLTQzMmI1ZjAzZTY1YyIsImMiOjF9
