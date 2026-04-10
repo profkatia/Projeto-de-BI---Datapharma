@@ -14,11 +14,11 @@ Gráfico com Comparação entre Receita Real vs Planejada
 >>Entrega AC2
 
 MÉTRICAS :
-Lucro
-Margem de Lucro
-Custo Total
-Impostos sobre a Receita
-Gráfico com a comparação da Receita por Unidade
+Lucro |
+Margem de Lucro|
+Custo Total|
+Impostos sobre a Receita|
+Gráfico com a comparação da Receita por Unidade|
 
 
 📊 Visão do Dashboard
