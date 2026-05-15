@@ -21,6 +21,7 @@ Impostos sobre a Receita|
 Gráfico com a comparação da Receita por Unidade|
 
 Entrega da AC3
+
 Nova funcionalidade do projeto é a Criação do Gráfico de barras
 analizando a Receita por Linha de Negócio
 
