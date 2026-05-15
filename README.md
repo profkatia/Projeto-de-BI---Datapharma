@@ -20,6 +20,10 @@ Custo Total|
 Impostos sobre a Receita|
 Gráfico com a comparação da Receita por Unidade|
 
+Entrega da AC3
+Nova funcionalidade do projeto é a Criação do Gráfico de barras
+analizando a Receita por Linha de Negócio
+
 
 📊 Visão do Dashboard
 
@@ -30,8 +34,8 @@ Monitorar o desempenho da empresa
 Identificar variações entre valores planejados e realizados
 Indentificar Receita Por Uinidade
 
-LINK DO POWER BI ONLINE Atualizado: 
-https://app.powerbi.com/view?r=eyJrIjoiODg0YzdhNzEtMTJiNS00YmYwLThlMDYtOTNlYTViNTE2Y2E3IiwidCI6ImMwMmU1MTQ4LTVlZmItNDVmNi04ODQyLTQzMmI1ZjAzZTY1YyIsImMiOjF9
+LINK DO POWER BI ONLINE Atualizado AC3 : 
+https://app.powerbi.com/view?r=eyJrIjoiYTBhODM1OGMtZTRlOC00NzBlLTkyMDgtOWExZmQ0OTMwNTI4IiwidCI6ImMwMmU1MTQ4LTVlZmItNDVmNi04ODQyLTQzMmI1ZjAzZTY1YyIsImMiOjF9
 
 
 
