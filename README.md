@@ -35,8 +35,12 @@ Monitorar o desempenho da empresa
 Identificar variações entre valores planejados e realizados
 Indentificar Receita Por Uinidade
 
-LINK DO POWER BI ONLINE Atualizado AC3 : 
-https://app.powerbi.com/view?r=eyJrIjoiYTBhODM1OGMtZTRlOC00NzBlLTkyMDgtOWExZmQ0OTMwNTI4IiwidCI6ImMwMmU1MTQ4LTVlZmItNDVmNi04ODQyLTQzMmI1ZjAzZTY1YyIsImMiOjF9
+>>Parte Final do Projeto>>
+Implementação de Nova Página com Gráfico de Barras analisando as métricas de receita,
+volume e Margem de Lucro e Tabela de Linha de Negócio e Itens vendidos
+
+LINK DO POWER BI ONLINE Atualizado- Final: 
+https://app.powerbi.com/view?r=eyJrIjoiOTRhYzllMTItNjQzNi00ZTg2LTgyMTYtMjQyMmI0NWJlM2ZiIiwidCI6ImMwMmU1MTQ4LTVlZmItNDVmNi04ODQyLTQzMmI1ZjAzZTY1YyIsImMiOjF9
 
 
 
@@ -62,7 +66,7 @@ GitHub
 
 Faça o download dos arquivos do repositório
 
-Abra o arquivo do Power BI (.pbix)
+Abra o arquivo do Power BI final (.pbix)
 
 Explore os dashboards e interações
 
